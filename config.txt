@@ -1,28 +1,26 @@
 {
-# 微信公众号：凡事有券 
 # 公众号配置
 # 公众号appId
 "app_id": "wx8ffa85a2f984461c",
 # 公众号appSecret
 "app_secret": "40a3da45099eb87e1fa15c4193efead0",
 # 模板消息id
-"template_id": "mIys_GyUcZHXMIX2vDPrYabmW-TD3yZKojswklYCUaU",
+"template_id": "r_8JujYoKu6RwF4-jVSQsn0VvsepB8XPMt2vPItVfOw",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oK85B6QcADOiUk8Fz7SvqxrTOrZM，oK85B6UQu6hEch9_Mvnfzu1fSCuc"],
+"user": ["oK85B6QcADOiUk8Fz7SvqxrTOrZM","oK85B6UQu6hEch9_Mvnfzu1fSCuc"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "	
-a38f05cf1c8a4cf88c2a710d6c584ea2",
+"weather_key": "a38f05cf1c8a4cf88c2a710d6c584ea2",
 # 天行数据apikey
-"tian_api": "	907c7e74c981306a2696d40ce24dfa5f",
+"tian_api": "907c7e74c981306a2696d40ce24dfa5f",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "江西",
-# 生日1
-"birthday1": {"微微": "大宝", "birthday": "2003-10-22"},
-# 生日2
-"birthday2": {"轩轩": "小宝", "birthday": "2003-01-06"},
-# 今天是我们相识的，格式同上
+# 生日
+"birthday1": {"name": "薇薇", "birthday": "2003-10-23"},
+# 生日
+"birthday2": {"name": "轩轩", "birthday": "2003-01-06"},
+# 在一起的日子，格式同上
 "love_date": "2021-01-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
